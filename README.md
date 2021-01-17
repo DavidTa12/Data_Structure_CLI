@@ -1,4 +1,4 @@
-# Data_Structure_CLI
+# Data Structure CLI
 
 Some Python exercices with a creation of a CLI (Command Line Interface).
 
